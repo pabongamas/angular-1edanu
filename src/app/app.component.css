@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+.flex {
+  display: flex;
+}
+.divActions{
+  grid-gap: 9px;text-align: center;justify-content: center;
+}
